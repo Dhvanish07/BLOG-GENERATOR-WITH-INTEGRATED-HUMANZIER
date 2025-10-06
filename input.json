@@ -1,0 +1,9 @@
+[
+  {
+    "id": UPLOADING ID, #set to 1 if not mentioned
+    "new_id": count, #set to 1
+    "name": "YOUR BLOG NAME HERE",
+    "topic": "YOUR TOPIC HERE",
+    "keywords": "YOUR KEYWORDS HERE"
+  }
+]
