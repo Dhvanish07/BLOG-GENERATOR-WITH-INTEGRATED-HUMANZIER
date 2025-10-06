@@ -1,0 +1,9 @@
+requests
+nltk
+torch
+numpy
+spacy
+scikit-learn
+sentence-transformers
+transformers
+tqdm
